@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://www.liveenhanced.com/wp-content/uploads/2021/07/Tokyo-2020-Olympics-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width: 50px;
+    background-color:turquoise;
+    border-style:ridge;
+}
+
+h2{
+    background-color: indigo
+}
+p{
+    background-color: indigo;
+}
+
+#Fun_Fact{
+    align-content: flex-start;
+    height: 100px;
+    width: 300px;
+    font-family: Futura;
+    color:white;
+    background-color: indigo;
+}
